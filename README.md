@@ -9,4 +9,4 @@ You can add anything here to test it.
 
 ## This is a new heading Level 1 line
 
-Add a new line of code
+I want to remove the previous line to commit a new message
