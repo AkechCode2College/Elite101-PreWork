@@ -10,5 +10,3 @@ You can add anything here to test it.
 ## This is a new heading Level 1 line
 
 I want to remove the previous line to commit a new message
-make a change here
-make another change
