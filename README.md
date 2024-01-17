@@ -11,3 +11,4 @@ You can add anything here to test it.
 
 I want to remove the previous line to commit a new message
 Here is a new line new commit
+test
